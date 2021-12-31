@@ -1,4 +1,4 @@
-# Web-crawling
+# Web-scraping
 In this part, I would like to show basic python code for web scraping using Scrapy or BeautifulSoup
 
 1. 	Basic HTML for web scraping :
